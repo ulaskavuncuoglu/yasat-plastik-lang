@@ -802,6 +802,7 @@ figcaption {
   font-size: 96px;
   line-height: 1em;
   font-weight: 500;
+  letter-spacing: -5px;
 }
 
 .script.xlarge.rotate-left {
